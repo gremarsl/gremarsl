@@ -1,10 +1,5 @@
 - 👋 Hi, I’m @gremarsl
-- 
-- 👀 I’m interested in ...
-Embedded Software 
-Automotive Software 
-Functional Programming 
-Stock Market (actually, i am most interested in semiconductor companies)
+- 👀 I’m interested in Embedded Software, Automotive Software, Functional Programming, Stock Market (actually, i am most interested in semiconductor companies), Cycing, Hiking - in the Alps
 - 🌱 I’m currently learning - 
 - or at least spending some minutes in my free time to do the exercises of the first chapters of Structure and Interpretation of Computer Programs
 - Origin was the interest in microcontrollers, the embedded software
