@@ -1,17 +1,17 @@
 
 Hey,
-Professional Interest: \
+Professional Interest:
 - Automotive Embedded Software
 - Functional Programming
 - Economy and the Stock Markets
   
-Sports: \ 
+Sports:
 - Badminton
 - Cycing
 - Hiking
 - Tennis
   
-Some Academic Lessons: \ 
+Some Academic Lessons:
 - MIT - Linear Algebra - Gilbert Strang.
 - MIT - Performance Engineering in Software Systems
 
